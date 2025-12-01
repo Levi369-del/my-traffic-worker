@@ -1,0 +1,5 @@
+gunicorn
+Flask==2.2.2
+undetected-chromedriver
+selenium
+setuptools
